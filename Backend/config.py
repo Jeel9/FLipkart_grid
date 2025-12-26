@@ -1,0 +1,11 @@
+class Config:
+    SECRET_KEY = 'your_secret_key'
+    # MONGO_URI = 'mongodb+srv://eCommerce_Backend:flipkartGrid@cluster0.hdxiiz9.mongodb.net/'
+    MONGO_URI = 'mongodb://localhost:27017'
+    SECRET_KEY_TOKEN = 'myawesomesecretkeytoken1234##123'
+    # API_KEY = '876718522269168'
+    API_KEY = '576575436978347'
+    # CLOUD_NAME = 'eCommerce'
+    CLOUD_NAME = 'ecommerce-baburao'
+    # API_SECRET = 'fns6iMMG0-uzGPoMngYr47tq0mI'
+    API_SECRET = 'ibKlACnPDpsR5bAnOZATFJ3kYoc'
